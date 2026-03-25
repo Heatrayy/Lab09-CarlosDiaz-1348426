@@ -6,7 +6,7 @@ class Program
     {
         int numero1;
         int numero2;
-
+        Console.Writeline("Bienvenido al laboratorio 09")
         Console.WriteLine("Ejercicio 5 - Intercambio de valores");
         Console.Write("Ingrese el primer numero: ");
         numero1 = int.Parse(Console.ReadLine());
